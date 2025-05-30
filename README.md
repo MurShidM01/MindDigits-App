@@ -47,7 +47,25 @@ Test your logical thinking and deduction skills in this modern, feature-rich gam
 
 <div align="center">
 
-[Place your screenshots here in a grid layout]
+<table>
+  <tr>
+    <td><img src="https://github.com/MurShidM01/MindDigits-App/blob/main/Screenshots/Screenshot_2025_0530_160531.jpg" width="200"/></td>
+    <td><img src="https://github.com/MurShidM01/MindDigits-App/blob/main/Screenshots/Screenshot_2025_0530_160541.jpg" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MurShidM01/MindDigits-App/blob/main/Screenshots/Screenshot_2025_0530_160551.jpg" width="200"/></td>
+    <td><img src="https://github.com/MurShidM01/MindDigits-App/blob/main/Screenshots/Screenshot_2025_0530_160602.jpg" width="200"/></td>
+    <td><img src="https://github.com/MurShidM01/MindDigits-App/blob/main/Screenshots/Screenshot_2025_0530_160646.jpg" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MurShidM01/MindDigits-App/blob/main/Screenshots/Screenshot_2025_0530_160722.jpg" width="200"/></td>
+    <td><img src="https://github.com/MurShidM01/MindDigits-App/blob/main/Screenshots/Screenshot_2025_0530_160736.jpg" width="200"/></td>
+    <td><img src="https://github.com/MurShidM01/MindDigits-App/blob/main/Screenshots/Screenshot_2025_0530_160749.jpg" width="200"/></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="https://github.com/MurShidM01/MindDigits-App/blob/main/Screenshots/Screenshot_2025_0530_160802.jpg" width="200"/></td>
+  </tr>
+</table>
 
 </div>
 
